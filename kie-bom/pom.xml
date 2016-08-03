@@ -1195,6 +1195,56 @@
         <version>${version.org.kie}</version>
         <classifier>sources</classifier>
       </dependency>
+      <dependency>
+        <groupId>org.kie.workbench.forms</groupId>
+        <artifactId>kie-wb-common-forms-processing-engine</artifactId>
+        <version>${version.org.kie}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.kie.workbench.forms</groupId>
+        <artifactId>kie-wb-common-forms-processing-engine</artifactId>
+        <version>${version.org.kie}</version>
+        <classifier>sources</classifier>
+      </dependency>
+      <dependency>
+        <groupId>org.kie.workbench.forms</groupId>
+        <artifactId>kie-wb-common-forms-common-widgets</artifactId>
+        <version>${version.org.kie}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.kie.workbench.forms</groupId>
+        <artifactId>kie-wb-common-forms-common-widgets</artifactId>
+        <version>${version.org.kie}</version>
+        <classifier>sources</classifier>
+      </dependency>
+      <dependency>
+        <groupId>org.kie.workbench.forms</groupId>
+        <artifactId>kie-wb-common-forms-editor-api</artifactId>
+        <version>${version.org.kie}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.kie.workbench.forms</groupId>
+        <artifactId>kie-wb-common-forms-editor-api</artifactId>
+        <version>${version.org.kie}</version>
+        <classifier>sources</classifier>
+      </dependency>
+      <dependency>
+        <groupId>org.kie.workbench.forms</groupId>
+        <artifactId>kie-wb-common-forms-editor-backend</artifactId>
+        <version>${version.org.kie}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.kie.workbench.forms</groupId>
+        <artifactId>kie-wb-common-forms-editor-client</artifactId>
+        <version>${version.org.kie}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.kie.workbench.forms</groupId>
+        <artifactId>kie-wb-common-forms-editor-client</artifactId>
+        <version>${version.org.kie}</version>
+        <classifier>sources</classifier>
+      </dependency>
+
       <!-- Distribution -->
       <dependency>
         <groupId>org.kie</groupId>
